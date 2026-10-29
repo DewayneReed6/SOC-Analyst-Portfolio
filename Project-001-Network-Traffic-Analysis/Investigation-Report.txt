@@ -1,0 +1,55 @@
+# PROJECT 001: NETWORK TRAFFIC INVESTIGATION
+
+**Role:** Junior SOC Analyst (Training Lab)  
+**Tool:** Wireshark 3.5  
+**Project Type:** Network Security Analysis  
+**Investigation Status:** Completed — Inconclusive
+
+## 1. Objective
+
+The objective of this project was to analyze captured network traffic, identify communication between internal and external IP addresses, and investigate potentially unusual network behavior.
+
+## 2. Investigation Details
+
+During the investigation, I used Wireshark to capture and analyze network packets.
+
+I applied display filters to identify TCP connections and examine communication between devices.
+
+**Network Findings:**
+
+- Internal IP Address: 10.0.0.x
+- External IP Address: External server (redacted)
+- Service Port: 443 (HTTPS)
+- Protocol: TCP/TLS
+- Matching Packets: 95
+
+## 3. Analysis
+
+I examined network traffic associated with the external IP address.
+
+During the investigation, I identified TCP retransmissions and duplicate acknowledgments.
+
+These events can occur because of network congestion, packet loss, or other network conditions.
+
+I also examined TCP connections and learned how the three-way handshake establishes communication between devices.
+
+## 4. Findings
+
+The captured traffic showed communication between an internal device and an external server using HTTPS.
+
+Although retransmissions and duplicate acknowledgments were observed, these events alone did not establish malicious activity.
+
+## 5. Conclusion
+
+Based on the available packet capture, I did not identify sufficient evidence to confirm a cybersecurity attack.
+
+Additional endpoint logs, application information, and network activity would be required to make a more definitive assessment.
+
+## 6. Skills Demonstrated
+
+- Network traffic analysis
+- Wireshark packet filtering
+- TCP/IP fundamentals
+- TCP three-way handshake analysis
+- IP address investigation
+- Security incident documentation
