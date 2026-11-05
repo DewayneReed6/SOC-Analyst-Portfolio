@@ -1,0 +1,8 @@
+2026-11-05 09:00:01 server01 sshd[1101]: Failed password for jsmith from 203.0.113.45 port 52101 ssh2
+2026-11-05 09:00:04 server01 sshd[1102]: Failed password for jsmith from 203.0.113.45 port 52102 ssh2
+2026-11-05 09:00:07 server01 sshd[1103]: Failed password for jsmith from 203.0.113.45 port 52103 ssh2
+2026-11-05 09:00:10 server01 sshd[1104]: Failed password for jsmith from 203.0.113.45 port 52104 ssh2
+2026-11-05 09:00:13 server01 sshd[1105]: Failed password for jsmith from 203.0.113.45 port 52105 ssh2
+2026-11-05 09:00:16 server01 sshd[1106]: Accepted password for jsmith from 203.0.113.45 port 52106 ssh2
+2026-11-05 09:03:20 server01 sshd[1110]: Accepted password for admin from 192.0.2.10 port 52200 ssh2
+2026-11-05 09:05:30 server01 sshd[1111]: Failed password for unknown from 198.51.100.23 port 52210 ssh2
