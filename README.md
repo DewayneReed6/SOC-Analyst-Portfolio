@@ -56,6 +56,8 @@ Documented the incident timeline, evidence, classification, and recommended resp
 
 **Skills:** Authentication Analysis, Incident Response, Security Documentation
 
+[View Project 003](Project-003-Suspicious-Login-Investigation/README.md)
+
 # Project 004 — SSH Log Investigation
 
 Analyzed simulated Linux SSH authentication logs using macOS Terminal to identify suspicious login activity.
@@ -69,6 +71,16 @@ Analyzed simulated Linux SSH authentication logs using macOS Terminal to identif
 All data is fictional and used for training.
 
 [View Project 003](Project-003-Suspicious-Login-Investigation/README.md)
+
+### Project 005 — Suspicious PowerShell Investigation
+
+Investigated simulated Windows Event ID 4688 logs using macOS Terminal. Identified suspicious PowerShell execution launched by Microsoft Word, analyzed parent-child process relationships, and reconstructed a 15-second incident timeline.
+
+**Skills:** Windows log analysis, incident triage, process investigation, and incident response reporting.
+
+**Classification:** Needs Further Investigation.
+
+[View Project 005](Project-005-PowerShell-Investigation/README.md)
 
 ## Current Learning Focus
 
