@@ -1,0 +1,8 @@
+2026-11-05 10:00:01 | EventID=4688 | Host=FINANCE-PC01 | User=jsmith | Process=explorer.exe | Parent=userinit.exe
+2026-11-05 10:02:15 | EventID=4688 | Host=FINANCE-PC01 | User=jsmith | Process=chrome.exe | Parent=explorer.exe
+2026-11-05 10:05:30 | EventID=4688 | Host=FINANCE-PC01 | User=jsmith | Process=powershell.exe | Parent=winword.exe | CommandLine=powershell.exe -NoProfile -EncodedCommand [REDACTED]
+2026-11-05 10:05:35 | EventID=4688 | Host=FINANCE-PC01 | User=jsmith | Process=whoami.exe | Parent=powershell.exe
+2026-11-05 10:05:40 | EventID=4688 | Host=FINANCE-PC01 | User=jsmith | Process=cmd.exe | Parent=powershell.exe
+2026-11-05 10:05:45 | EventID=4688 | Host=FINANCE-PC01 | User=jsmith | Process=net.exe | Parent=cmd.exe
+2026-11-05 10:06:00 | EventID=4688 | Host=FINANCE-PC01 | User=jsmith | Process=notepad.exe | Parent=explorer.exe
+2026-11-05 10:07:10 | EventID=4688 | Host=FINANCE-PC01 | User=jsmith | Process=chrome.exe | Parent=explorer.exe

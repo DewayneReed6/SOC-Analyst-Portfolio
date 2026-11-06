@@ -1,0 +1,4 @@
+2026-11-05 10:05:30 | EventID=4688 | Host=FINANCE-PC01 | User=jsmith | Process=powershell.exe | Parent=winword.exe | CommandLine=powershell.exe -NoProfile -EncodedCommand [REDACTED]
+2026-11-05 10:05:35 | EventID=4688 | Host=FINANCE-PC01 | User=jsmith | Process=whoami.exe | Parent=powershell.exe
+2026-11-05 10:05:40 | EventID=4688 | Host=FINANCE-PC01 | User=jsmith | Process=cmd.exe | Parent=powershell.exe
+2026-11-05 10:05:45 | EventID=4688 | Host=FINANCE-PC01 | User=jsmith | Process=net.exe | Parent=cmd.exe
