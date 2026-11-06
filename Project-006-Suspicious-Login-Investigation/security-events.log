@@ -1,0 +1,16 @@
+2026-11-05 08:00:01 | EventID=4624 | Host=HR-PC01 | User=amiller | IP=192.0.2.10 | LogonType=2
+2026-11-05 08:05:12 | EventID=4624 | Host=FINANCE-PC01 | User=jsmith | IP=192.0.2.20 | LogonType=2
+2026-11-05 08:15:30 | EventID=4625 | Host=FINANCE-PC01 | User=jsmith | IP=203.0.113.45 | LogonType=10
+2026-11-05 08:15:33 | EventID=4625 | Host=FINANCE-PC01 | User=jsmith | IP=203.0.113.45 | LogonType=10
+2026-11-05 08:15:36 | EventID=4625 | Host=FINANCE-PC01 | User=jsmith | IP=203.0.113.45 | LogonType=10
+2026-11-05 08:15:39 | EventID=4625 | Host=FINANCE-PC01 | User=jsmith | IP=203.0.113.45 | LogonType=10
+2026-11-05 08:15:42 | EventID=4625 | Host=FINANCE-PC01 | User=jsmith | IP=203.0.113.45 | LogonType=10
+2026-11-05 08:15:45 | EventID=4624 | Host=FINANCE-PC01 | User=jsmith | IP=203.0.113.45 | LogonType=10
+2026-11-05 08:16:10 | EventID=4688 | Host=FINANCE-PC01 | User=jsmith | Process=cmd.exe | Parent=explorer.exe
+2026-11-05 08:16:20 | EventID=4688 | Host=FINANCE-PC01 | User=jsmith | Process=whoami.exe | Parent=cmd.exe
+2026-11-05 08:16:30 | EventID=4688 | Host=FINANCE-PC01 | User=jsmith | Process=net.exe | Parent=cmd.exe
+2026-11-05 08:20:00 | EventID=4624 | Host=IT-PC01 | User=admin | IP=192.0.2.30 | LogonType=2
+2026-11-05 08:25:00 | EventID=4688 | Host=IT-PC01 | User=admin | Process=notepad.exe | Parent=explorer.exe
+2026-11-05 08:30:00 | EventID=4625 | Host=HR-PC01 | User=amiller | IP=192.0.2.10 | LogonType=2
+2026-11-05 08:30:15 | EventID=4624 | Host=HR-PC01 | User=amiller | IP=192.0.2.10 | LogonType=2
+2026-11-05 08:35:00 | EventID=4688 | Host=HR-PC01 | User=amiller | Process=chrome.exe | Parent=explorer.exe
