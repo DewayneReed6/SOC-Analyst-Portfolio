@@ -82,6 +82,21 @@ Investigated simulated Windows Event ID 4688 logs using macOS Terminal. Identifi
 
 [View Project 005](Project-005-PowerShell-Investigation/README.md)
 
+### Project 006 — Suspicious Login & Account Compromise Investigation
+
+Investigated simulated Windows security events involving repeated failed logins, a successful remote login, and subsequent command-line activity.
+
+**Skills demonstrated:**
+- Windows Event ID analysis (4624, 4625, 4688)
+- Authentication log investigation
+- Suspicious IP identification
+- Process activity correlation
+- Incident timeline reconstruction
+- SOC incident reporting
+
+**Classification:** Suspicious Activity — Needs Further Investigation
+
+[View Project 006](Project-006-Suspicious-Login-Investigation/README.md)
 ## Current Learning Focus
 
 - CompTIA Security+ preparation
